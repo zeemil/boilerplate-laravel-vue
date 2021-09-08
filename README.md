@@ -1,5 +1,3 @@
 ## Boilerplate
 - Laravel 8
-- Vue.JS
-
-This boilerplate was created for recruitement purpose
+- Vue.JS 2.6
